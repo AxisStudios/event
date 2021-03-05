@@ -1,6 +1,6 @@
 {
     "name": "axisstudios/event",
-    "description": "A library for managing events. This library is part of the SoloProyectos PHP API.",
+    "description": "A library for managing events.",
     "type": "php-library",
     "license": "MIT",
     "require": {
